@@ -1,1 +1,1 @@
-prom/mongodb_exporter:latest
+percona/mongodb_exporter:latest
