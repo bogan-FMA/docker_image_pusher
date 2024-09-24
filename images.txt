@@ -1,1 +1,1 @@
-percona/mongodb_exporter:latest
+percona/mongodb_exporter:0.41.0
