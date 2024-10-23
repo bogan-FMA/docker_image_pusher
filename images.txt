@@ -1,1 +1,1 @@
-docker.io/nginx:latest
+docker.io/grafana/grafana:6.1.4
