@@ -1,1 +1,1 @@
-gomods/athens:latest
+namshi/smtp:latest
