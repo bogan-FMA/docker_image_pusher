@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.7.2
+calico/node-arm64:v3.24.5
