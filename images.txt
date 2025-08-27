@@ -1,1 +1,1 @@
-doublezonline.cloud/yanwk/comfyui-boot:cu124-cn
+yanwk/comfyui-boot:cu124-cn
