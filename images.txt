@@ -1,1 +1,1 @@
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+yanwk/comfyui-boot:cu124-cn
