@@ -1,1 +1,1 @@
-lmcache/lmstack-router:kvaware-latest
+ollama:v1.0.1
